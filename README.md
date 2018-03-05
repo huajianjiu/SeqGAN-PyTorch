@@ -4,7 +4,7 @@ A implementation of SeqGAN in PyTorch, following the implementation in tensorflo
 
 ## Requirements: 
 * **PyTorch v0.1.12**
-* Python 2.7
+* ~~python 2.7~~ python 3
 * CUDA 7.5+ (For GPU)
 
 ## Origin
